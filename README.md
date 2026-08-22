@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SomendraSingh3/leetcode-question/tree/main/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/SomendraSingh3/leetcode-question/tree/main/0029-divide-two-integers/) | Medium |
+| [0509-fibonacci-number](https://github.com/SomendraSingh3/leetcode-question/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SomendraSingh3/leetcode-question/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/SomendraSingh3/leetcode-question/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/SomendraSingh3/leetcode-question/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/SomendraSingh3/leetcode-question/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
