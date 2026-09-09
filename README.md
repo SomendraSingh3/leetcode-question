@@ -42,5 +42,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SomendraSingh3/leetcode-question/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/SomendraSingh3/leetcode-question/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SomendraSingh3/leetcode-question/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
